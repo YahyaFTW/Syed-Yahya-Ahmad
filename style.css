@@ -30,7 +30,6 @@ body {
 .container > h1 {
   margin-bottom: -20px;
   font-weight: 800;
-  /* color: red; */
   font-family: "Gotham-Bold";
 }
 .container > h1 > span {
@@ -137,7 +136,6 @@ body {
     margin-bottom: 20px;
     margin-top: 10px;
     font-weight: 800;
-    /* color: red; */
     font-family: "Gotham-Bold";
   }
 }
